@@ -15,7 +15,7 @@ Tools, workflows, and systems built across:
 - Video/ATEM/Resolve tech for music content capture  
 
 👉 **Explore:**  
-[**Musician Profile →**](../musician/README.md)
+[**Musician Profile →**](https://github.com/Oliverse-Alpha/.github/tree/main/musician)
 
 ---
 
