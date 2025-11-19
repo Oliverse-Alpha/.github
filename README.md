@@ -29,7 +29,7 @@ Engineering across:
 - Automation tools, CLIs, and data systems  
 
 👉 **Explore:**  
-[**Developer & AI Profile →**](../developer/README.md)
+[**Developer & AI Profile →**](https://github.com/Oliverse-Alpha/.github/tree/main/developer)
 
 ---
 
