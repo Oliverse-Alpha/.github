@@ -1,5 +1,5 @@
 # 🌌 Oliverse-Alpha  
-A unified portfolio for my work across **Music Technology**, **AI/Software Development**, and **Drug Discovery Science**.
+A unified portfolio for my work across **Computer Music Technology**, **AI/Software Development**, and **Drug Discovery Science**.
 
 Welcome — this organization brings together the three primary domains I operate in.  
 Each section contains its own curated README, projects, and context.
