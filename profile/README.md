@@ -1,6 +1,6 @@
 # 🌌 Oliverse-Alpha  
-A home for my work across **Music Technology**, **AI Engineering**, and **Drug Discovery Science**.  
-Three disciplines, one creative and technical universe.
+This is the home for my work across **Music Technology**, **AI Engineering**, and **Drug Discovery Science**.  
+Three disciplines, one creative and technical universe.  It helps keep me organized across my three main fields of study
 
 ---
 
@@ -33,7 +33,7 @@ Software engineering and agentic AI that merge technical rigor with creative too
 ---
 
 ## 🧪 Drug Discovery Scientist  
-High-throughput experimentation, robotics, and computational pipelines for biochemistry.
+High-throughput and high-content benchtop experimentation, robotics, and computational pipelines for biochemistry.
 
 **Focus Areas**
 - Biochemical & cellular assay development (HTRF, AlphaLISA, DHCA/PHCA, EMSA, MSD)  
